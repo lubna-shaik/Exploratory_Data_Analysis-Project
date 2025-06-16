@@ -6,8 +6,9 @@
 - **Python (Jupyter/Anaconda)**
 - **Pandas**, **Matplotlib**, **Seaborn**
 
-### 👩‍💻 Role:
-**Data Analyst**
+### 👥 Team Effort:
+Collaborative academic project completed as part of the Exploratory Data Analysis course at KLE Technological University.
+
 
 ### 🧰 Tools Used:
 - Jupyter Notebook (Anaconda)
